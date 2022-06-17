@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Coding Challenge</string>
+
+    <string name="picsumListURL">https://picsum.photos/v2/list</string>
+    <string name="previous">Prev</string>
+    <string name="next">Next</string>
+    <string name="picsumPrefKey">picsumPrefKey</string>
+    <string name="loadedKey">latestLoaded</string>
+    <string name="pageKey">currentPage</string>
+    <string name="android_coding_challenge">Coding Challenge</string>
+    <string name="my_name">Gio B. Cornejo</string>
+    <string name="no_current_data">No current data.</string>
+    <string name="author">Author</string>
+    <string name="author_semicolon">Author:</string>
+    <string name="details_for_the_selected_item">Details for the Selected Item</string>
+    <string name="details_for_the_selected_item_tablet">Details for the Selected Item (Tablet)</string>
+    <string name="url">URL</string>
+    <string name="download_url">Download URL</string>
+    <string name="download_link">Download Link</string>
+    <string name="link">Link</string>
+    <string name="link_underlined"><u>%1$s</u></string>
+    <string name="view">View From Source</string>
+    <string name="download">Download</string>
+    <string name="blastasia_technical_exam">BLASTASIA TECHNICAL EXAM</string>
+</resources>
